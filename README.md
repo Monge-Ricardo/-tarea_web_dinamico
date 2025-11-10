@@ -1,5 +1,5 @@
-PRY_MI_PRIMERA_PAGINA_DINAMICA
-Este proyecto es una práctica introductoria al desarrollo web dinámico. Contiene un archivo index.html que puede ejecutarse fácilmente desde Visual Studio Code utilizando la extensión Live Server.
+PAGINA_DINAMICA
+Este proyecto es una tareaa del desarrollo web dinámico. Contiene un archivo index.html que puede ejecutarse fácilmente desde Visual Studio Code utilizando la extensión Live Server.
 
 Instrucciones para ejecutar el proyecto
 Clonar el repositorio Abre una terminal y ejecuta el siguiente comando: git clone "link repositorio"
